@@ -19,4 +19,4 @@ The project is designed for beginners to understand **Object-Oriented Programmin
 ## ▶ How to Run
 1. Compile the program:
    ```bash
-   javac LibrarySystem.java
+   javac library.java
