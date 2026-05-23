@@ -95,14 +95,9 @@ Enter choice:
 
 # 📸 Screenshots
 
-## Main Menu
+![Main Menu](https://raw.githubusercontent.com/jiteshkhatri11/librarySystem/main/images/menu.png)
 
-![Main Menu](images/menu.png)
-
-## Add Book
-
-![Add Book](images/add-book.png)
-
+![Add Book](https://raw.githubusercontent.com/jiteshkhatri11/librarySystem/main/images/add-book.png)
 ---
 
 # 📘 Concepts Used
