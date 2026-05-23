@@ -93,11 +93,7 @@ Enter choice:
 
 ---
 
-# 📸 Screenshots
 
-‪C:\Users\jites\OneDrive\Documents\Pictures\Screenshots\Scre
-
-# 📘 Concepts Used
 
 This project demonstrates:
 
