@@ -95,10 +95,7 @@ Enter choice:
 
 # 📸 Screenshots
 
-![Main Menu](https://raw.githubusercontent.com/jiteshkhatri11/librarySystem/main/images/menu.png)
-
-![Add Book](https://raw.githubusercontent.com/jiteshkhatri11/librarySystem/main/images/add-book.png)
----
+‪C:\Users\jites\OneDrive\Documents\Pictures\Screenshots\Scre
 
 # 📘 Concepts Used
 
