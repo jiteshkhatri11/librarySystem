@@ -1,22 +1,37 @@
-# College Library Management System 📚
+# 📚 College Library Management System
 
-This is a simple console-based **Library Management System** developed in **Java**.  
-The project is designed for beginners to understand **Object-Oriented Programming (OOP)** concepts and basic data handling using collections.
+## 📖 Overview
+A console-based Java project to manage books in a library using OOP concepts.
 
 ## ✨ Features
-- Add new books to the library
-- Display all available books
-- Issue a book
-- Return an issued book
-- Shows book status (Available / Issued)
+- Add books
+- Display books
+- Issue books
+- Return books
+- Book availability status
 
 ## 🛠 Technologies Used
 - Java
 - ArrayList
-- Scanner (for user input)
-- OOP concepts (Class, Object, Encapsulation)
+- Scanner
+- OOP
 
-## ▶ How to Run
-1. Compile the program:
-   ```bash
-   javac library.java
+## 📂 Project Structure
+library.java
+
+## ▶️ How to Run
+javac library.java
+java library
+
+## 📸 Screenshots
+(Add screenshots here)
+
+## 🚀 Future Improvements
+- File handling
+- Database integration
+- GUI using Java Swing
+- Login system
+- Fine calculation
+
+## 👨‍💻 Author
+Jitesh Khatri
