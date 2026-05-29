@@ -1,47 +1,41 @@
 # 📚 College Library Management System
 
-A simple console-based **Library Management System** developed in **Java** using **Object-Oriented Programming (OOP)** concepts and **ArrayList** collections.
+A simple and efficient **console-based Library Management System** developed in **Java** using **Object-Oriented Programming (OOP)** concepts and **ArrayList Collections**.
 
-This project allows users to:
-
-* Add books
-* Display available books
-* Issue books
-* Return books
-* Track book availability status
-
-It is a beginner-friendly project designed for students learning Java and OOP concepts.
+This project allows users to manage books in a library through a menu-driven console interface.
 
 ---
 
-# 🚀 Features
+## 🚀 Features
 
-✅ Add new books to the library
-✅ Display all books
-✅ Issue books to students
-✅ Return issued books
-✅ Show book availability status
-✅ Console-based interactive menu
-✅ Beginner-friendly Java project
-
----
-
-# 🛠 Technologies Used
-
-* Java
-* ArrayList
-* Scanner Class
-* Object-Oriented Programming (OOP)
+* ➕ Add New Books
+* 📖 Display Available Books
+* 📕 Issue Books
+* 📗 Return Books
+* ✅ Track Book Availability
+* 🖥 Interactive Console Menu
+* 📚 Beginner-Friendly Java Project
 
 ---
 
-# 📂 Project Structure
+## 🛠️ Technologies Used
 
-```bash
+| Technology    | Purpose           |
+| ------------- | ----------------- |
+| Java          | Core Programming  |
+| ArrayList     | Data Storage      |
+| Scanner Class | User Input        |
+| OOP Concepts  | Program Structure |
+
+---
+
+## 📂 Project Structure
+
+```bash id="csm1v2"
 librarySystem/
 │
-├── library.java
-├── README.md
+├── library.java        # Main Source Code
+├── README.md           # Project Documentation
 └── images/
     ├── menu.png
     └── add-book.png
@@ -49,37 +43,37 @@ librarySystem/
 
 ---
 
-# ▶️ How to Run the Project
+## ▶️ How to Run the Project
 
-## Step 1: Clone Repository
+### 1️⃣ Clone the Repository
 
-```bash
+```bash id="n20p9v"
 git clone https://github.com/jiteshkhatri11/librarySystem.git
 ```
 
-## Step 2: Open Project Folder
+### 2️⃣ Open the Project Folder
 
-```bash
+```bash id="6rmt7n"
 cd librarySystem
 ```
 
-## Step 3: Compile Java File
+### 3️⃣ Compile the Java Program
 
-```bash
+```bash id="ydrxva"
 javac library.java
 ```
 
-## Step 4: Run Program
+### 4️⃣ Run the Application
 
-```bash
+```bash id="t77u6m"
 java library
 ```
 
 ---
 
-# 🖥 Sample Console Output
+## 🖥️ Sample Console Output
 
-```text
+```text id="4e5ej1"
 ===== COLLEGE LIBRARY SYSTEM =====
 
 1. Add Book
@@ -93,7 +87,7 @@ Enter choice:
 
 ---
 
-
+## 📚 Concepts Used
 
 This project demonstrates:
 
@@ -102,80 +96,68 @@ This project demonstrates:
 * ArrayList Collections
 * Loops and Conditional Statements
 * User Input Handling
-* Menu Driven Programming
+* Menu-Driven Programming
+
+---
+
+## 💡 Project Purpose
+
+This project was built to practice:
+
+* Java Fundamentals
+* Object-Oriented Programming
+* Real-World Problem Solving
+* Console Application Development
+
+It is suitable for:
+
+* 🎓 College Assignments
+* 💻 Java Practice
+* 📄 Resume Projects
+* 🌟 GitHub Portfolio
+* 🚀 Internship Applications
 
 ---
 
 
----
 
-# 💡 Why This Project?
-
-This project was created to practice:
-
-* Java fundamentals
-* OOP concepts
-* Real-world problem solving
-* Console application development
-
-It is a great beginner-level project for:
-
-* College assignments
-* Java practice
-* Resume projects
-* GitHub portfolio
-* Internship applications
 
 ---
 
-# 👨‍💻 Author
+## 🤝 Contributing
 
-## Jitesh Khatri
+Contributions are welcome!
 
-* 💻 Software Engineering Student
-* 🚀 Interested in Backend Development
-* 📚 Learning Java, Spring Boot, DSA, and System Design
-
-GitHub Profile:
-[https://github.com/jiteshkhatri11](https://github.com/jiteshkhatri11)
-
----
-
-# ⭐ Support
-
-If you like this project:
-
-⭐ Star the repository
-🍴 Fork the repository
-📢 Share with friends
+1. Fork the repository
+2. Create a new branch
+3. Commit changes
+4. Push your branch
+5. Open a Pull Request
 
 ---
 
-# 📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
 ---
 
-# 🏷 Repository Topics
+## 👨‍💻 Author
 
-Add these topics in your GitHub repository:
+**Jitesh Khatri**
 
-```text
-java
-library-management-system
-oops
-java-project
-console-application
-beginner-java-project
-college-project
-arraylist
-```
+💻 Software Engineering Student
+🚀 Interested in Backend Development
+📚 Learning Java, Spring Boot, DSA, and System Design
+
+GitHub: https://github.com/jiteshkhatri11
 
 ---
 
-# 🧾 Suggested Repository Description
+## ⭐ Support
 
-```text
-A console-based Java Library Management System using OOP concepts and ArrayList for managing books, issuing, returning, and tracking availability.
-```
+If you found this project helpful:
+
+⭐ Star the repository
+🍴 Fork the repository
+📢 Share it with others
